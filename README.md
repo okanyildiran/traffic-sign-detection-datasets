@@ -4,7 +4,7 @@ List of useful datasets for traffic sign detection and recognition.
 
 ## Image Datasets
 
-Belgium - 9006 images - 50gb </br>
+Belgium - 9006 images - ~2.5gb </br>
 http://www.vision.ee.ethz.ch/~timofter/traffic_signs/
 
 China - 10000 images - 15gb </br>
@@ -30,5 +30,5 @@ http://graphics.cs.msu.ru/ru/node/1266
 Germany - 50000 ROIs </br>
 http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset
 
-Chinese - 6164 ROIs </br>
+China - 6164 ROIs </br>
 http://www.nlpr.ia.ac.cn/pal/trafficdata/recognition.html
