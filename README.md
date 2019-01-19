@@ -19,7 +19,7 @@ http://cvrr.ucsd.edu/LISA/lisa-traffic-sign-dataset.html
 Germany - 900 images - 1.6gb 1360x800 </br>
 http://benchmark.ini.rub.de/?section=gtsdb&subsection=news
 
-China - 100000 images - unknown </br>
+China - 30000 images - 2048x2048 </br>
 https://cg.cs.tsinghua.edu.cn/traffic-sign/
 
 Russia - 179000 images - 17gb 1280x720 and 1920x1080</br>
